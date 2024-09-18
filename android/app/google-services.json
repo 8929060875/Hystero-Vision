@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "723156008052",
+    "project_id": "hysteroscopy-7d62c",
+    "storage_bucket": "hysteroscopy-7d62c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723156008052:android:66f3d234ec6b771259a521",
+        "android_client_info": {
+          "package_name": "com.example.hystero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723156008052-i5j7edtb2lhfll85gvtmvb0ghbh96i96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-QmBwfz3u4AIrp5NezLkq91l9dlY9MSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723156008052-i5j7edtb2lhfll85gvtmvb0ghbh96i96.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "723156008052-62qsj1apjt45uak482r2r9pmn7eiofs8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hystero"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
