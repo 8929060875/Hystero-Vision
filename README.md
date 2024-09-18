@@ -141,4 +141,4 @@ These instructions will guide you through setting up and running the app on your
 5. Create a new Pull Request.
 
 ## Credits
-The idea of the application was developed by Dr. Palak Handa and Dr. Nidhi Goel. The execution of the applications and development of the github repository was done by Ms. Anushka Singh. 
+The idea of the application was developed by Dr. Palak Handa and Dr. Nidhi Goel. The execution of the applications and development of the github repository was done by Ms. Anushka Singh. We are currently looking for gyncologists interested in annotating hysterocopy frames. We have developed a hysteropy dataset of up-to 10K frames. Please contant for collaborations to drpalakhanda@gmail.com
